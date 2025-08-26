@@ -1,5 +1,5 @@
 # Telegram Media Downloader
-
+![Demo](./Telegram.gif)
 An interactive Telegram media downloader built with [Telethon](https://github.com/LonamiWebs/Telethon) and [Rich](https://github.com/Textualize/rich).
 
 ## ✨ Features
